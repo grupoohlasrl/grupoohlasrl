@@ -1,11 +1,22 @@
-### Hi there 👋, Grupoohlasrl
-Somos una empresa de desarrolladores especializados La formación de nuestra tripulación es continua y orientada hacia la calidad y las más modernas capacidades tecnológicas. Para nuestros clientes, todo esto se traduce en absoluta seguridad y perfecta asistencia. Cada miembro trabaja duro para hacer realidad cualquier idea trabajando codo a codo con el cliente. Después de una misión interespacial, después de la entrega o puesta en marcha de una aplicación o comercio electrónico, contribuimos activamente a la mejora del negocio de nuestros clientes brindando asistencia, ideas y herramientas de
+### Hi there 👋, spediscih24.com
+Spediscih24 è una piattaforma logistica che confronta i prezzi dei pacchi e consente la creazione di spedizioni online. Per fare questo, mantiene accordi commerciali con i migliori corrieri sul mercato, tra cui Poste Italiane, UPS, GLS, DHL, SDA, SKYNET, NEXIVE, CRONO EXPRESS, ecc.
 
-Skills: PHP Laravel / PHP Development / WordPress / PrestaShop / Codeigniter / CRM / ERPnext
+L'elevato volume di spedizioni che Spediscih24 gestisce quotidianamente e le alleanze commerciali con questi corrieri permettono di offrire agli utenti i migliori prezzi di spedizione.
 
-- 🔭 I’m currently working on Fiverr.com 
-- 🌱 I’m Graduated BA at tambosi, Italy 2013 
-- 👯 I want to collaborate on GitHub
+Registrarsi è semplice e gratuito e consente di spedire pacchi in modo facile e veloce. Inserendo i dati di origine e destinazione, il peso e le misure del pacco potrai confrontare prezzi e servizi dei corrieri proposti e scegliere quello più adatto alle tue esigenze. Infine potrai scegliere il metodo di pagamento che preferisci.
+
+Spediscih24.it è specializzato nella spedizione di pacchi nazionali, ma si occupa anche di comparare e creare spedizioni internazionali.
+
+Spediscih24 è adatto a privati, PMI, aziende e liberi professionisti, offrendo servizi specifici per ogni categoria.
+
+Per richiedere un nuovo ordine di ritiro, variare i dati della spedizione o risolvere qualsiasi giacenza puoi inviarci un ticket, contattarci tramite la chat online, che trovi sempre in basso a destra, oppure chiamare al nostro servizio clienti dal lunedì al venerdì dalle 9:00 alle 18:00.
+
+Comincia a risparmiare fin da subito con i prezzi bassi di Spediscih24. Cerca, confronta, Spedisce!
+
+by NEXTDAY 
+
+- 🔭 Courier
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/grupoohlasrl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/grupoohlasrl/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://grupoohlasrl.com)  
